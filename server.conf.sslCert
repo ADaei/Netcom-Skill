@@ -1,0 +1,14 @@
+{
+  "MONGODB_CONNECTION_URL" : "mongodb://127.0.0.1/genieacs",
+  "CWMP_INTERFACE" : "0.0.0.0",
+  "CWMP_PORT" : 7547,
+  "CWMP_SSL" : true,
+  "NBI_INTERFACE" : "0.0.0.0",
+  "NBI_PORT" : 7557,
+  "FS_INTERFACE" : "0.0.0.0",
+  "FS_PORT" : 7567,
+  "LOG_INFORMS" : true,
+  "IGNORE_XML_NAMESPACES" : true,
+  "LIBXMLJS_OPTIONS" : {"recover" : true},
+  "DEBUG" : true
+}
