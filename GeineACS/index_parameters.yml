@@ -1,0 +1,7 @@
+Serial Number: Device.DeviceInfo.SerialNumber
+Product Class: Device.DeviceInfo.ProductClass
+Software version: Device.DeviceInfo.SoftwareVersion
+OUI: Device.DeviceInfo.ManufacturerOUI
+IP: Device.WANDevice.1.WANConnectionDevice.1.WANIPConnection.1.ExternalIPAddress
+WLAN SSID: Device.LANDevice.1.WLANConfiguration.1.SSID
+Tag: _tags
